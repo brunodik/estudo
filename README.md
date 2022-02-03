@@ -1,0 +1,2 @@
+# estudo
+eestudo em c
